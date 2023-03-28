@@ -11,8 +11,11 @@
             "id": "a0623214ea99a416",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -146,11 +149,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c385f8a44947a9ee",
+  "active": "a0623214ea99a416",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Plans/MASTER Plan For Project.md",
     "README.md",
+    "Untitled.canvas",
     "Plans",
     "2023-03-27.md"
   ]
